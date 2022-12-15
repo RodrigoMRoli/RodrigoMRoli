@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 🌱 I’m moving fowards to learn React, Laravel and Vue
 - 🔭 I'm currently working on a company automatization process
 - 🤓 I’m forever learning Javascript, PHP and MySQL
-- ⚡ Fun fact: I'm planning on making an indie game on Unity
+- ⚡ Fun fact: I'm making an indie game on Unity
 
 <div align="center">
   <a href="https://github.com/rodrigomroli">
