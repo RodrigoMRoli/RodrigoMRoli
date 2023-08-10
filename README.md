@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: he/him
 - 🌱 I’m moving fowards to learn Node, Nuxt and Vue
 - 🔭 I'm currently working on automatization process
-- ⚡ Javascript
+- :cupid: Javascript
 
 <div align="center">
   <a href="https://github.com/rodrigomroli">
