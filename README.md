@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - :cupid: Javascript
 
 <div align="center">
-  <a href="https://github.com/rodrigomroli">
+  ![Rodrigo's Stats](https://github-readme-stats.vercel.app/api?username=rodrigomroli&theme=radical&include_all_commits=true&count_private=true)
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=rodrigomroli&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigomroli&layout=compact&langs_count=7&theme=radical"/>
 </div>
