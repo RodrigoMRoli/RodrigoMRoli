@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Hi! I'm Rodrigo Monteiro Roli
+## Hi! I'm Rodrigo
 
 - 😄 Pronouns: he/him
 - :cupid: Javascript is my passion
