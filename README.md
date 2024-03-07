@@ -21,14 +21,14 @@ Here are some ideas to get you started:
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=rodrigomroli&show_icons=true&theme=dark&layout=compact"
+    srcset="https://github-readme-stats.vercel.app/api?username=rodrigomroli&show_icons=true&theme=dark&layout=compact&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=rodrigomroli&show_icons=true&layout=compact"
+    srcset="https://github-readme-stats.vercel.app/api?username=rodrigomroli&show_icons=true&layout=compact&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=rodrigomroli&show_icons=true&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rodrigomroli&show_icons=true&layout=compact&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />
 </picture>
   
 <div style="display: inline_block"><br>
