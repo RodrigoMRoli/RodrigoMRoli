@@ -19,26 +19,30 @@ Here are some ideas to get you started:
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=rodrigomroli&show_icons=true&theme=holi&layout=compact"
+    height=250 align="center"
+    srcset="https://github-readme-stats.vercel.app/api?username=rodrigomroli&show_icons=true&theme=holi"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=rodrigomroli&show_icons=true&theme=catppuccin_latte&layout=compact"
+    height=250 align="center"
+    srcset="https://github-readme-stats.vercel.app/api?username=rodrigomroli&show_icons=true&theme=catppuccin_latte"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=rodrigomroli&show_icons=true&layout=compact" />
+  <img height=250 align="center" src="https://github-readme-stats.vercel.app/api?username=rodrigomroli&show_icons=true" />
 </picture>
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigomroli&show_icons=true&theme=holi&layout=compact"
+    height=250 align="center"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigomroli&show_icons=true&theme=holi"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigomroli&show_icons=true&theme=catppuccin_latte&layout=compact"
+    height=250 align="center"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigomroli&show_icons=true&theme=catppuccin_latte"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigomroli&show_icons=true&layout=compact" />
+  <img height=250 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigomroli&show_icons=true" />
 </picture>
 
 
