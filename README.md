@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 🔭 I'm currently working on automatization process
 - :cupid: Javascript
 
-![Rodrigo's Stats](https://github-readme-stats.vercel.app/api?username=rodrigomroli&theme=radical&include_all_commits=true&count_private=true)
+![Rodrigo's Stats](https://github-readme-stats.vercel.app/api?username=rodrigomroli&theme=radical&include_all_commits=true&count_private=true&layout=compact)
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=rodrigomroli&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigomroli&layout=compact&langs_count=7&theme=radical"/>
   
