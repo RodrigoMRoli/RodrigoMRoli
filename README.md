@@ -21,14 +21,14 @@ Here are some ideas to get you started:
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=rodrigomroli&show_icons=true&theme=dark"
+    srcset="https://github-readme-stats.vercel.app/api?username=rodrigomroli&show_icons=true&theme=dark&layout=compact"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=rodrigomroli&show_icons=true"
+    srcset="https://github-readme-stats.vercel.app/api?username=rodrigomroli&show_icons=true&layout=compact"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=rodrigomroli&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rodrigomroli&show_icons=true&layout=compact" />
 </picture>
   
 <div style="display: inline_block"><br>
