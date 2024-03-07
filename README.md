@@ -19,11 +19,9 @@ Here are some ideas to get you started:
 - 🔭 I'm currently working on automatization process
 - :cupid: Javascript
 
-<div align="center">
-  ![Rodrigo's Stats](https://github-readme-stats.vercel.app/api?username=rodrigomroli&theme=radical&include_all_commits=true&count_private=true)
+![Rodrigo's Stats](https://github-readme-stats.vercel.app/api?username=rodrigomroli&theme=radical&include_all_commits=true&count_private=true)
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=rodrigomroli&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigomroli&layout=compact&langs_count=7&theme=radical"/>
-</div>
   
 <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" />
