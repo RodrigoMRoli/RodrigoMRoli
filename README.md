@@ -29,6 +29,19 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api?username=rodrigomroli&show_icons=true&layout=compact" />
 </picture>
 
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigomroli&show_icons=true&theme=holi&layout=compact"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigomroli&show_icons=true&theme=catppuccin_latte&layout=compact"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigomroli&show_icons=true&layout=compact" />
+</picture>
+
+
 <div style="display: inline_block"><br>
   <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
   <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
