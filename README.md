@@ -15,28 +15,26 @@ Here are some ideas to get you started:
 ## Hi! I'm Rodrigo Monteiro Roli
 
 - 😄 Pronouns: he/him
-- 🌱 I’m moving fowards to learn Node, Nuxt and Vue
-- 🔭 I'm currently working on automatization process
-- :cupid: Javascript
+- :cupid: Javascript is my passion
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=rodrigomroli&show_icons=true&theme=dark&layout=compact&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage"
+    srcset="https://github-readme-stats.vercel.app/api?username=rodrigomroli&show_icons=true&theme=dark&layout=compact"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=rodrigomroli&show_icons=true&layout=compact&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage"
+    srcset="https://github-readme-stats.vercel.app/api?username=rodrigomroli&show_icons=true&layout=compact"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=rodrigomroli&show_icons=true&layout=compact&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rodrigomroli&show_icons=true&layout=compact" />
 </picture>
   
 <div style="display: inline_block"><br>
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" />
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" />
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg">
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original-wordmark.svg" />
